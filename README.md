@@ -1,4 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Bakers!
+
+### 🛠️ Tech Stack
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=BakersGit&color=blue&style=flat)
+
 
 <!--
 **BakersGit/BakersGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
