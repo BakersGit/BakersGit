@@ -25,7 +25,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BakersGit&color=blue&style=flat)
 
-## 🐍 Contribution Snake
+## 🐍 Activity Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BakersGit/BakersGit/output/github-contribution-grid-snake-dark.svg">
