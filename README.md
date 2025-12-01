@@ -3,6 +3,8 @@
 ## 🚀 About Me
 
 #### Hi there, i'm Kai also called Bakers! I’m a cross-platform app developer creating intuitive SwiftUI and Android apps with the goal of improving daily life through clean design and smart functionality.
+Many of my public repositories are not fully complete, as most of them were created for learning and experimental purposes.
+Further developed or actively maintained projects can be found in my pinned repositories.
 
 
 ## 🛠️ Tech Stack
