@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,100:2a5298&height=120&section=header&text=BakersGit&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4429,50:26a641,100:39d353&height=140&section=header&text=BakersGit&fontSize=40&fontColor=ffffff" />
 
 ## 🚀 About Me
 
