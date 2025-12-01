@@ -7,7 +7,7 @@ Many of my public repositories are not fully complete, as most of them were crea
 Further developed or actively maintained projects can be found in my pinned repositories.
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & More
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
